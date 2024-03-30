@@ -1,0 +1,22 @@
+h1{
+    color:rgb(245, 41, 54); 
+}
+h3{
+    color: rgb(245, 41, 54);
+}
+/* #upvote{
+    background-color: pink;
+    color: white;
+} */
+main p a{
+    background-color: blue;
+    color: white;
+}
+button:hover{
+    background-color: black;
+    color:white;
+}
+button:active{
+    background-color: yellow;
+    color: pink;
+}
